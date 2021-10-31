@@ -17,4 +17,4 @@ It is a dataset of around 21 million user reviews of around 300 different games 
 
 
 Jupyter notebook viewer:
-https://nbviewer.org/github/SimBoex/HW2/blob/main/script/github/SimBoex/HW2/blob/main/ADM_Homework_2.ipynb
+https://nbviewer.org/github/SimBoex/HW2/blob/main/ADM_Homework_2.ipynb
