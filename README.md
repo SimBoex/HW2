@@ -14,3 +14,7 @@ It is a dataset of around 21 million user reviews of around 300 different games 
 
 - **ADM_Homework_2.ipynb**
 *It is the notebook where there is all the code to analyse the data.*
+
+
+Jupyter notebook viewer:
+https://nbviewer.org/github/SimBoex/HW2/tree/main/ADM_Homework_2.ipynb
