@@ -4,7 +4,7 @@
   
 ## Dataset
 The data in usage are available on [Kaggle](https://www.kaggle.com/najzeko/steam-reviews-2021).
-It is a dataset of around 21 million user reviews of around 300 different games on Steam.
+It is a dataset of more than 21 million user reviews of around 300 different games on Steam.
 
 ## Goals
 The proposed script answers some research (RQs) and theoretical (TQs) questions and interprets meaningful patterns in data. 
