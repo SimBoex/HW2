@@ -7,8 +7,10 @@
 The proposed scripts allow  to answer some research questions (RQs)  and interpret meaningful patterns in data  
 
 ## Download sets of reviews
-The data in usage are available on [Kaggle](https://www.kaggle.com/najzeko/steam-reviews-2021)
+The data in usage are available on [Kaggle](https://www.kaggle.com/najzeko/steam-reviews-2021).
+It is a dataset of around 21 million user reviews of around 300 different games on Steam.
 
+### Script descriptions
 
-
-Script descriptions
+- **main.py**
+*It is the notebook where there is all the code to analyse the data.*
