@@ -12,5 +12,5 @@ It is a dataset of around 21 million user reviews of around 300 different games 
 
 ### Script descriptions
 
-- **main.py**
+- **ADM_homework_2.py**
 *It is the notebook where there is all the code to analyse the data.*
