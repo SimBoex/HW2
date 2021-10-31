@@ -7,7 +7,7 @@
 The proposed scripts allow  to answer some research questions (RQs)  and interpret meaningful patterns in data  
 
 ## Download sets of reviews
-The data in usage are available on Wikimedia Downloads page.
+The data in usage are available on [Kaggle](https://www.kaggle.com/najzeko/steam-reviews-2021)
 
 
 
