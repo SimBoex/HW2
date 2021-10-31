@@ -12,7 +12,7 @@ The proposed script answers some research (RQs) and theoretical (TQs) questions 
 ## Script descriptions
 
 - **ADM_Homework_2.ipynb**
-*It is the notebook where there is all the code to analyse the data.*
+*It is the notebook where there is all the code needed to analyse the data.*
 
 Jupyter notebook viewer:
 https://nbviewer.org/github/SimBoex/HW2/blob/main/ADM_Homework_2.ipynb
